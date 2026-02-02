@@ -18,3 +18,4 @@ Currently, I am upgrading my skills in **Java, Automation, Selenium, and Framewo
 To become a Java Automation Engineer.
 
 📅 Started: Day 1
+Day 1: Java basics, execution flow and testing-oriented examples
